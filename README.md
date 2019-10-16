@@ -209,12 +209,12 @@ The cards that represent a movie showing should be appended to the div with the 
     <div class="description">
       (Num Tickets) remaining tickets
     </div>
-    <span class="ui label">
+    <span class="ui-label">
       (Showtime)
     </span>
   </div>
   <div class="extra content">
-    <div class="ui blue button">Buy Ticket</div>
+    <div class="ui-blue-button">Buy Ticket</div>
   </div>
 </div>
 ```
